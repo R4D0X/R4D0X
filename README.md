@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://img.shields.io/github/public-repos/R4D0X" alt="GitHub repo count" />
+  ![R4D0X's GitHub stats](https://github-readme-stats.vercel.app/api?username=R4D0X&show_icons=true&theme=radical)
 </p>
