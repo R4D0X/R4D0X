@@ -29,5 +29,5 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=R4D0X&color=00FF41&style=flat-square&label=ACCESS+COUNT" alt="visitor count"/>
+  <img src="https://komarev.com/ghpvc/?username=R4D0X&color=0F0041&style=flat-square&label=ACCESS+COUNT" alt="visitor count"/>
 </p>
